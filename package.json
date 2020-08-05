@@ -9,11 +9,11 @@
   "author": "Kudoa",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.10.4",
+    "@babel/core": "^7.11.1",
     "@emotion/core": "^10.0.28",
-    "@emotion/react": "^11.0.0-next.13",
+    "@emotion/react": "^11.0.0-next.14",
     "@emotion/styled": "^10.0.27",
-    "@types/react": "^16.9.42",
+    "@types/react": "^16.9.44",
     "@types/react-dom": "^16.9.8",
     "babel-loader": "^8.1.0",
     "file-loader": "^6.0.0",
@@ -21,9 +21,11 @@
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "ts-loader": "^8.0.0",
-    "typescript": "^3.9.6",
-    "webpack": "^4.43.0",
+    "ts-loader": "^8.0.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1"
+  },
+  "devDependencies": {
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   }
